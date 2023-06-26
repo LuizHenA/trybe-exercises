@@ -8,11 +8,9 @@ Aqui você encontrará cada um dos exercícios que eu realizei divididos por _br
 
 <details>
   <summary><strong>O que é a Trybe?</strong><summary><br />
-![trybe] (https://theme.zdassets.com/theme_assets/9633455/ecf228e8c15da1a8bd07f574e675a0ac59330968.png)
- 
 	A Trybe é uma escola de **Desenvolvimento Full-Stack** com uma formação intensiva de aproximadamente 12 meses.
 
-	Você pode ver mais acessando [este link] (https://ajuda.betrybe.com/hc/pt-br/articles/360056299454-O-que-%C3%A9-a-Trybe-#:~:text=Somos%20uma%20escola%20de%20Desenvolvimento,profissional%20de%20quem%20estuda%20conosco.).
+	Você pode ver mais acessando este [link](https://ajuda.betrybe.com/hc/pt-br/articles/360056299454-O-que-%C3%A9-a-Trybe-#:~:text=Somos%20uma%20escola%20de%20Desenvolvimento,profissional%20de%20quem%20estuda%20conosco.).
 
 </details>
 
