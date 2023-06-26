@@ -9,13 +9,11 @@ Aqui você encontrará cada um dos exercícios que eu realizei divididos por _br
 ## Detalhes
 
 <summary><strong>O que é a Trybe?</strong><summary><br />
-
 A Trybe é uma escola de **Desenvolvimento Full-Stack** com uma formação intensiva de aproximadamente 12 meses.
 
 Você pode ver mais acessando este [link](https://ajuda.betrybe.com/hc/pt-br/articles/360056299454-O-que-%C3%A9-a-Trybe-#:~:text=Somos%20uma%20escola%20de%20Desenvolvimento,profissional%20de%20quem%20estuda%20conosco.).
 
 <summary><strong>Branches 🗃️</strong><summary><br />
-
 Neste repositório cada exercício estará salvo em uma branch **específica**, elas seguem um padrão de nomeclatura.
 
 Existem 4 módulos, são eles: `Fundamentos`, `Back-end`, `Front-end` e `Ciência da Computação`.
